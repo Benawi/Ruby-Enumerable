@@ -28,8 +28,8 @@
 
 - [📝 License](#license)
 
-# 📖 Create a database based on a diagram  <a name="about-project"></a>
-This repository includes files with plain SQL that can be used to recreate a database:
+# 📖 Create your own Enumerable  <a name="about-project"></a>
+This repository includes files with Ruby that can be used to recreate a Enumerable:
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,9 +52,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Decode a Morse code message [Requirements](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/morse_code.md)
 
-- [x] Create a method to decode a Morse code character, takes a string parameter, and return the corresponding character in uppercase (e.g. decode_char(".-") returns "A").
-- [x] Create a method to decode an entire word in Morse code, takes a string parameter, and return the string representation. Every character in a word will be separated by a single space (e.g. decode_word("-- -.--") returns "MY").
-- [x] Create a method to decode the entire message in Morse code, takes a string parameter, and return the string representation. Every word will be separated by 3 space
+- [x] Create a class MyList that has an instance variable @list.
+- [x] Create a module MyEnumerable that implements the following methods
+     - #all?
+     - #any?
+     - #filter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +71,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Linkdin: [Bwambale](https://www.linkedin.com/in/Bwambale-benny-wolter/)
 
 ## 🔭 Future Features <a name="future-features"></a>
-- Inhance the project additional parameters 🚀
+- Inhance the project by adding additional parameters 🚀
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
