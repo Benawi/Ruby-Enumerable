@@ -3,7 +3,7 @@
 ### <div align="center"><a href="https://github.com/Benawi"><img src="https://github.com/Benawi/Benawi/assets/21217148/de823737-5f7f-4de8-b62e-3fe88c238eab"/></a>
 
  </div> 
-<div align="center">🛰Decode a Morse code message🚀</div>
+<div align="center">🛰Create Enumerable🚀</div>
 
 # 📗 Table of Contents
 
@@ -28,7 +28,7 @@
 
 - [📝 License](#license)
 
-# 📖 Create your own Enumerable  <a name="about-project"></a>
+# 📖 Create Enumerable  <a name="about-project"></a>
 This repository includes files with Ruby that can be used to recreate a Enumerable:
 
 ## 🛠 Built With <a name="built-with"></a>
