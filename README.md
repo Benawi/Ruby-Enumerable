@@ -29,7 +29,7 @@
 - [📝 License](#license)
 
 # 📖 Create Enumerable  <a name="about-project"></a>
-This repository includes files with Ruby that can be used to recreate a Enumerable:
+This repository includes files with Ruby that can be used to recreate an Enumerable
 
 ## 🛠 Built With <a name="built-with"></a>
 
